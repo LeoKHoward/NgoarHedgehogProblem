@@ -9,7 +9,7 @@ Starting from top left square of the garden (0,0) and finishing at the bottom ri
 
 The hedgehog can only move right one square or down one square.
 
-# How to use
+# Input/Output
 
 The top two numbers of the Input.txt will be M and N which dictate the size of the garden by how many rows and columns
 there are.
@@ -32,5 +32,10 @@ Output.txt:
 12
 ```
 
+# Running
 
+Update [HedgehogProblemOutput](src/main/java/HedgehogProblemOutput.java) class with desired garden matrix size and
+number of apples in each square.
+
+Run application from [Main](src/main/java/Main.java) class.
 
