@@ -1,6 +1,7 @@
 # Hedgehog Problem
 
-A simple Java application used to calculate maximum number of apples a hedgehog can achieve.
+A simple Java application used to calculate maximum number of apples a hedgehog can achieve when navigating through the
+squares of a 2D matrix.
 
 # Overview
 
@@ -15,7 +16,9 @@ there are.
 
 The next lines are the number of apples in each square of the garden.
 
-This will then produce the result from Output.txt for the maximum possible number of apples the hedgehog can get.
+This will then produce the result in Output.txt for the maximum possible number of apples the hedgehog can get once it
+moves from the top left square to the bottom right square whilst following the rules of only being able to move right or
+down.
 
 ```
 Input.txt:
